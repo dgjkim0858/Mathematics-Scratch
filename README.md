@@ -1,4 +1,4 @@
-# Mathematics-Scratch
+# Mathematics Scratch
 스크래치를 활용한 수학 프로그래밍
 
 등차수열의 일반항<br>
